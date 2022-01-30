@@ -9,7 +9,7 @@ def rania():
 	print("grrrrrr, i am a tiger!")
 
 def squirrel():
-	print("nutssss")
+	print("Nutssss")
 
 def main():
 
