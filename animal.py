@@ -8,12 +8,17 @@ def owl():
 def rania():
 	print("grrrrrr, i am a tiger!")
 
+def squirrel():
+	print("nutssss")
+
 def main():
 
 	if sys.argv[1] == 'rania':
 		rania()
 	elif sys.argv[1] == 'owl':
 		owl()
+	elif sys.argv[1] == 'squirrel':
+		squirrel()
 	else:
 		default()
 
